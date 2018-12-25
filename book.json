@@ -75,7 +75,7 @@
 		    }]
 		},
 		 "edit-link": {
-            "base": "https://github.com/ks4na/gitbook-usage",
+            "base": "https://github.com/ks4na/gitbook-usage/edit/master",
             "label": "Edit This Page"
         }
 	}

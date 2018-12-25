@@ -87,7 +87,7 @@
 		"github-buttons": {
 			"buttons": [{
 				"user": "ks4na",
-				"repo": "dafaERP-guide-Java",
+				"repo": "gitbook-usage",
 				"type": "star",
 				"size": "small",
 				"count": true
@@ -99,7 +99,7 @@
 		    }]
 		},
 		 "edit-link": {
-            "base": "https://github.com/ks4na/dafaERP-guide-Java/edit/master",
+            "base": "https://github.com/ks4na/gitbook-usage/edit/master",
             "label": "Edit This Page"
         }
 	}
