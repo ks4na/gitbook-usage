@@ -9,5 +9,4 @@
   * [插件](extends/plugins.md)
   * [book.json](extends/bookjson.md)
   * [其他技巧](extends/other-skills.md)
-* [advancedFunc](./advancedFunc.md)
 
