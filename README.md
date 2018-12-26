@@ -6,4 +6,3 @@
 
 - [GitBook使用教程](http://gitbook.zhangjikai.com/)
 - [GitBook文档（中文版）](https://chrisniael.gitbooks.io/gitbook-documentation/content/index.html)
-
