@@ -2,7 +2,7 @@
 
 - [播放视频](#播放视频)
 - [图片居左显示](#图片居左显示)
-- [自定义的website.css下载](#website.css)
+- [我的自定义配置](#我的自定义配置)
 
 
 
@@ -29,5 +29,6 @@ markdown图片默认居中显示，如果某些图片想要居左显示，只需
 
  ![pic1](../images/summary1.png)
  
- ## website.css
- [点此下载](../styles/website.css)
+## 我的自定义配置
+- [website.css](https://github.com/ks4na/gitbook-usage/blob/master/styles/website.css)
+- [book.json](https://github.com/ks4na/gitbook-usage/blob/master/book.json)
