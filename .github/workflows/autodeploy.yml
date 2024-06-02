@@ -33,7 +33,7 @@ jobs:
           options: ''
           ssh_options: ''
           src: '_book/'
-          dest: '${{secrets.USER_RAKSMART}}@${{secrets.HOST_RAKSMART}}:${{secrets.DEST_DIR}}
+          dest: '${{secrets.USER_RAKSMART}}@${{secrets.HOST_RAKSMART}}:${{secrets.DEST_DIR}}'
 
       - name: Display status from deploy
         run: echo "${{ steps.deploy.outputs.status }}"
